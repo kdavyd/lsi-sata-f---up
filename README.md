@@ -1,4 +1,4 @@
-lsi-sata-fuckup
+lsi-sata-f---up
 ===============
 
 Demo script to hang LSI-based SAS HBA with SATA-drives.
@@ -6,7 +6,7 @@ Demo script to hang LSI-based SAS HBA with SATA-drives.
 Usage:
 
 1) Set up LSI (f.e. Falcon 2008) HBA with SATA drives.
-2) run lsi-sata-fuckup /dev/sdc.
+2) run lsi-sata-f---up /dev/sdc.
 3) Got all drives, attached to LSI HBA hanged.
 
 WARNING: 
